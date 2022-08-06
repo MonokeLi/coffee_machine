@@ -120,5 +120,3 @@ def run_coffee_machine():
 
 
 run_coffee_machine()
-print("Hello world")
-print("Bye world")
